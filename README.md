@@ -50,7 +50,3 @@ rosrun qptrajectory qptest
 rqt_plot
 
 ```
-
-
-# qp
-# qp
